@@ -1,7 +1,7 @@
 # Reverse Prompt Engineering (RPE) Implementation
 
-This repository contains an implementation of reverse prompt engineering (RPE) that infers the underlying prompt based on outputs from large language models (LLMs).
-Original Paper: https://arxiv.org/abs/2411.06729
+This repository contains an implementation of [Reverse Prompt Engineering](https://arxiv.org/abs/2411.06729) (RPE) that infers the underlying prompt based on outputs from large language models (LLMs).
+
 
 ## Repository Structure
 
